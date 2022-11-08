@@ -1,7 +1,3 @@
-<img src= "for github.png" alt= "Github banner" >
-[![wakatime](https://wakatime.com/badge/user/6d01e106-b33f-476f-a6bf-24d4d05d95a9.svg)](https://wakatime.com/@6d01e106-b33f-476f-a6bf-24d4d05d95a9)
-
-
 <h1 align = "center"> Hey! My name is G ADITHYA </h1>
 <h3 align = "center"> Hey there. Welcome to my github profile</h3>
 <h3 align = "center">Love to work in a team.<br> | Computer Science Engineer |</br>
