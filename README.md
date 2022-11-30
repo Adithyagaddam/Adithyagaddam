@@ -33,9 +33,9 @@
 
 
 ## 📊 GitHub Stats:
-![ADITHYA Stats](https://github-readme-stats.vercel.app/api?username=Adithyagaddam&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![ADITHYA Stats](https://github-readme-stats.vercel.app/api?username=Adithyagaddam&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adithyagaddam&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyagaddam&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyagaddam&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)</br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adithyagaddam&theme=radical&no-frame=true&no-bg=false&margin-w=4)
