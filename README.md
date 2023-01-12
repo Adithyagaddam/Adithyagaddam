@@ -1,4 +1,4 @@
-<h1 align = "center"> Hey! My name is G ADITHYA </h1>
+<h1 align = "center"> Hey! My name is GADDAM ADITHYA </h1>
 <h3 align = "center"> Hey there. Welcome to my github profile</h3>
 <h3 align = "center">Love to work in a team.<br> | Computer Science Engineer |</br>
 <p>Exploring the field of Data Science.</p>
