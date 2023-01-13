@@ -40,7 +40,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adithyagaddam&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-[![dvamsidhar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Adithyagaddam&theme=xcode)](https://github.com/Adithyagaddam)
+[![ADITHYA's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Adithyagaddam&theme=xcode)](https://github.com/Adithyagaddam)
 
 <hr>
 <hr>
